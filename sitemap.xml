@@ -1,7 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://ggraph.data-imaginist.com/404.html</loc>
+  </url>
+  <url>
+    <loc>https://ggraph.data-imaginist.com/CODE_OF_CONDUCT.html</loc>
+  </url>
+  <url>
+    <loc>https://ggraph.data-imaginist.com/LICENSE-text.html</loc>
+  </url>
+  <url>
+    <loc>https://ggraph.data-imaginist.com/articles/Edges.html</loc>
+  </url>
+  <url>
+    <loc>https://ggraph.data-imaginist.com/articles/Layouts.html</loc>
+  </url>
+  <url>
+    <loc>https://ggraph.data-imaginist.com/articles/Nodes.html</loc>
+  </url>
+  <url>
+    <loc>https://ggraph.data-imaginist.com/articles/index.html</loc>
+  </url>
+  <url>
+    <loc>https://ggraph.data-imaginist.com/articles/tidygraph.html</loc>
+  </url>
+  <url>
+    <loc>https://ggraph.data-imaginist.com/authors.html</loc>
+  </url>
+  <url>
     <loc>https://ggraph.data-imaginist.com/index.html</loc>
+  </url>
+  <url>
+    <loc>https://ggraph.data-imaginist.com/news/index.html</loc>
   </url>
   <url>
     <loc>https://ggraph.data-imaginist.com/reference/autograph.html</loc>
@@ -112,10 +142,16 @@
     <loc>https://ggraph.data-imaginist.com/reference/guide_edge_colourbar.html</loc>
   </url>
   <url>
+    <loc>https://ggraph.data-imaginist.com/reference/guide_edge_coloursteps.html</loc>
+  </url>
+  <url>
     <loc>https://ggraph.data-imaginist.com/reference/guide_edge_direction.html</loc>
   </url>
   <url>
     <loc>https://ggraph.data-imaginist.com/reference/highschool.html</loc>
+  </url>
+  <url>
+    <loc>https://ggraph.data-imaginist.com/reference/index.html</loc>
   </url>
   <url>
     <loc>https://ggraph.data-imaginist.com/reference/internal_extractors.html</loc>
@@ -220,24 +256,12 @@
     <loc>https://ggraph.data-imaginist.com/reference/scale_label_size.html</loc>
   </url>
   <url>
-    <loc>https://ggraph.data-imaginist.com/reference/scale_type.geometry.html</loc>
+    <loc>https://ggraph.data-imaginist.com/reference/scale_type.ggraph_geometry.html</loc>
   </url>
   <url>
     <loc>https://ggraph.data-imaginist.com/reference/theme_graph.html</loc>
   </url>
   <url>
     <loc>https://ggraph.data-imaginist.com/reference/whigs.html</loc>
-  </url>
-  <url>
-    <loc>https://ggraph.data-imaginist.com/articles/Edges.html</loc>
-  </url>
-  <url>
-    <loc>https://ggraph.data-imaginist.com/articles/Layouts.html</loc>
-  </url>
-  <url>
-    <loc>https://ggraph.data-imaginist.com/articles/Nodes.html</loc>
-  </url>
-  <url>
-    <loc>https://ggraph.data-imaginist.com/articles/tidygraph.html</loc>
   </url>
 </urlset>
